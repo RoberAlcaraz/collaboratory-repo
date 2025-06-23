@@ -2,6 +2,8 @@
 
 This repository is for teammates to play and collaborate, learning the basics of Git & GitHub.
 
+The data used in this activity is from https://www.kaggle.com/datasets/felipeesc/shark-attack-dataset
+
 ## Activities
 
 Follow these steps to complete the collaborative exercise:
